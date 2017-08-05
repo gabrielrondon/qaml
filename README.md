@@ -2,14 +2,14 @@
 Question &amp; Answer Markdown Language - A world-wide standard for writing itens for exams and reading it.
 
 ## Create a question
-###to establish the title:
+### to establish the title:
 "title": "My question"
 
-###write the sentence:
+### write the sentence:
 "sentence": "What is the capital of France?"
 
 ## Type of Answer
-###establish the type of answer:
+### establish the type of answer:
 "type": "multipleChoice"
 
 other types:
